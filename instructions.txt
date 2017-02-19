@@ -1,6 +1,4 @@
-instructions for running:
-1)need to install python 2.6.6
-2)python order_gen.py
-
-you can see the output in output.txt
-input has given in input.dat
+System Requirements :  Python 2.6.6
+Input : input.dat
+How to run the program : Run from command prompt "Python order_gen.py"
+Sample Output : output.txt
