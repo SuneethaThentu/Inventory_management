@@ -1,0 +1,6 @@
+instructions for running:
+1)need to install python 2.6.6
+2)python order_gen.py
+
+you can see the output in output.txt
+input has given in input.dat
